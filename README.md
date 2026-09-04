@@ -5,6 +5,8 @@ Example codes for the Cross-Platform Development course at HAMK
 - Custom components
 - Passing props
 - State variables + form handling and handling user input
+- FlatList with custom component
+- FlatList with an Insert Modal
 
 This Topics list will be updated during the course.
  
