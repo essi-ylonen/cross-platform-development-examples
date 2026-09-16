@@ -9,6 +9,10 @@ Example codes for the Cross-Platform Development course at HAMK
 - FlatList with an Insert Modal
 - React Native + Node.js REST API Example
 - CRUD Example
+- Stack navigation
+- Drawer navigation
+- SQLite, local database and table creation
+- SQLite, adding and reading data
 
 This Topics list will be updated during the course.
  
