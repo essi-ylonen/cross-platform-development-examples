@@ -13,6 +13,7 @@ Example codes for the Cross-Platform Development course at HAMK
 - Drawer navigation
 - SQLite, local database and table creation
 - SQLite, adding and reading data
+- Student interactions (dragging, deleting by swipe + checkboxes and radio buttons)
 
 This Topics list will be updated during the course.
  
